@@ -5,10 +5,18 @@
     {% include head.html %}
 </head>
 
-<body class="antialiased text-gray-900 min-h-screen">
-    <main class="mb-auto">
-        {{ content }}
-    </main>
+<body class="antialiased bg-ochre text-dark-blue min-h-screen">
+    {% include header.html %}
+
+    <div class="max-w-4xl mx-auto">
+        <main class="mb-auto mx-auto p-3">
+            {{ content }}
+        </main>
+    
+        {% if page.date %}
+            {% include footer.html %}
+        {% endif %}
+    </div>
 </body>
 
 </html>

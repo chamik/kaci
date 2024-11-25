@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1 class="text-6xl font-bold mb-6">{{page.title | capitalize }}</h1>
+
+{% for post in page.posts %}
+{% include article_view.html %}
+{% endfor %}

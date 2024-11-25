@@ -1,0 +1,11 @@
+<footer class="max-w-2xl w-full mx-auto mt-4 mb-6">
+    <hr class="border-brown mb-4">
+    <div class="flex flex-row justify-between">
+        <p>{{page.date | date: "%d. %m. %Y" }}</p>
+        <div class="flex flex-row gap-2">
+            {% for tag in page.tags %}
+                <a href="/tag/{{ tag }}" class="font-semibold underline">{{ tag | smallcase }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</footer>

@@ -5,6 +5,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-postcss'
   gem 'jekyll-sitemap'
+  gem 'jekyll-archives'
   gem 'jekyll-feed'
   gem 'webrick'
 end

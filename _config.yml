@@ -1,9 +1,9 @@
 # This is the basic info about your site. Definitely change this.
-title: Jekyll Tailwind Template
-description: Basic Jekyll site template using Tailwind CSS with PostCSS
-author: Kvído Potápník
+title: Kačí
+description: můj blogísek 🐬🐬🏝️☀️
+author: Kačí
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://kaci.chamik.eu" # the base hostname & protocol for your site, e.g. https://example.com
 
 # This template comes with the SEO tag plugin preinstalled. To get the most out of it, check out the configuration manual:
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -13,6 +13,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-postcss
   - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    tags: '/tag/:name/'
 
 # Unless you know what are you doing, you probably don't want to change anything below this line
 

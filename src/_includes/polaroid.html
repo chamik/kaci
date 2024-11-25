@@ -1,0 +1,6 @@
+<figure class="bg-slate-100 flex flex-col rounded {% cycle 'rotate-6', '-rotate-6', 'rotate-3', '-rotate-3' %} w-{{ include.size }} mx-auto text-sm font-bold">
+    <img src="{{ include.image }}" height="{{ include.height }}" class="w-11/12 mx-auto pt-7" alt="{{ include.image }}">
+    <div class="my-4">
+        <p class="text-center px-6">{{ include.text }}</p>
+    </div>
+</figure>
