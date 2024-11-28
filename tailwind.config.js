@@ -21,7 +21,7 @@ module.exports = {
             width: {
                 'small': '15rem',
                 'medium': '25rem',
-                'large': '30rem', // Custom height size
+                'large': '30rem',
             },
         },
     },
