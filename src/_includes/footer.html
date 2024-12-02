@@ -1,10 +1,16 @@
-<footer class="max-w-2xl w-full mx-auto mt-4 mb-6">
-    <hr class="border-brown mb-4">
-    <div class="flex flex-row justify-between px-6">
-        <p>{{page.date | date: "%d. %m. %Y" }}</p>
+<footer class="w-full mx-auto mt-auto pt-4 pb-6 bg-ochre/60">
+    <div class="max-w-2xl w-full mx-auto flex flex-row justify-between px-6">
+        {% if page.date %}
+            <p>{{page.date | date: "%d. %m. %Y" }}</p>
+        {% else %}
+            <p>{{ "now" | date: "%Y" }}</p>
+        {% endif %}
+        <a href="/feed.xml"><p class="underline">RSS</p></a>
         <div class="flex flex-row gap-2">
             {% for tag in page.tags %}
                 <a href="/tag/{{ tag }}" class="font-semibold underline">{{ tag | smallcase }}</a>
+            {% else %}
+                <p>&mdash;</p>
             {% endfor %}
         </div>
     </div>

@@ -39,6 +39,6 @@
 
 @layer components {
     .link {
-        @apply text-anime-water
+        @apply text-anime-water underline underline-offset-2 font-bold
     }
 }
