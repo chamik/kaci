@@ -1,4 +1,4 @@
-# Jekyll + Tailwind CSS template
+# Kačí stránky
 
 This is a dead simple Github template repository that takes care of the boring boilerplate of setting up a Jekyll site with Tailwind CSS. There is an absolute minimum of pre-written html, allowing you to get to work as quickly as possible.
 
