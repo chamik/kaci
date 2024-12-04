@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skapinova šibalství
+title: Škola pro ženy
 description: >- 
     Delší popis
     povídky
