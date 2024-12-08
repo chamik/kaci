@@ -1,12 +1,15 @@
 ---
-layout: page
+layout: review
 title: Pygmalion
 description: >- 
     Delší popis
     povídky
 tags: drama
+bookauthor: George Bernard Shaw
+pages: 145
+rating: 4
+half: true
 ---
-George Bernard Shaw
 
 Jedno z nejlepších dramat, které jsem četla. Když jsem se o tom bavila s lidmi kolem, měli dost rozporuplné názory, avšak já jsem si knihu zamilovala. Dostala jsem se k ní čistě díky povinné četbě, ale nelituji toho.
 

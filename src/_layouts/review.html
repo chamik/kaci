@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="mx-auto prose prose-p:text-dark-blue prose-p:leading-[2.1rem] md:prose-lg lg:prose-xl text-justify pt-7">
+    <div class="flex flex-row justify-between">
+        <h1 class="not-prose text-dark-blue">{{page.title}}</h1>
+        <p>{{page.pages}} stran</p>
+    </div>
+    <h3 class="!-mt-8 !mb-8">{{page.bookauthor}}</h3>
+    <div class="flex flex-row gap-2">
+        {% for i in (1..page.rating) %}
+            <img class="!my-0" src="/assets/star.svg" alt="rating star" width="30px">
+        {% endfor %}
+        {% if page.half %}
+            <img class="!my-0" src="/assets/half_star.svg" alt="rating star" width="15px">
+        {% endif %}
+    </div>
+    {{ content }}
+</article>
