@@ -4,7 +4,7 @@ title: Pygmalion
 description: >- 
     Delší popis
     povídky
-tags: drama
+tags: drama komedie
 bookauthor: George Bernard Shaw
 pages: 145
 rating: 4

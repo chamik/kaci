@@ -4,7 +4,7 @@ title: Škola pro ženy
 description: >- 
     Delší popis
     povídky
-tags: drama
+tags: drama komedie
 bookauthor: Moliére
 pages: 102
 rating: 4
