@@ -6,6 +6,7 @@ description: >-
     povídky
 tags: sci-fi
 ---
+
 *Tuto povídku jsem poslala do soutěže Zlatý klíč, která probíhá každý rok v městské části Praha 11. Získala jsem za ni čestné uznání (4.-6. místo), tak snad si také užijete její čtení.*
 
 ----
@@ -44,7 +45,8 @@ K těmto zápisům byly připnuté i složky s videy, avšak ta se ještě nede�
 
 *Vše je připraveno přesně tak, jak jste žádal, s kontaminací světa čekáme na Váš pokyn, Veliteli.*
 
-Váš ███████{: .text-right}
+Váš ███████
+{: .text-right}
 
 Lia měla pocit, že omdlí. Zrychlil se jí srdeční tep, nedokázala se pořádně nadechnout, před očima se jí tvořily mžitky. Pokud to pochopila správně, tak sen, který měla, nebyl snem, nýbrž vzpomínkou. Konkrétně ze dne, kdy nastala kontaminace. Když přilétl Velitel a jeho lidé, tvářili se, že je chtějí zachránit, byla to jejich spása. Jenomže ona zahlédla muže ve stejné uniformě, jak dotlačil několik lidí přímo do kontaminované zóny. Otočili se proti nim a většinu z nich nechali napospas té nákaze. To byl ale celou dobu záměr. Všechny kontaminované světy, které navštívila, nechali kontaminovat lidé, kteří ji zaměstnávali. Nikdo v pevnosti neměl vzpomínky na domovskou zemi ne kvůli tomu, že byli příliš malí, když ji opustili, ale oni jim museli vzpomínky vymazat. Teď už Lia opravdu nemohla dýchat, všechny myšlenky jí letěly hlavou příliš rychle. Proč? Co všichni ti Přeživší, které za čas své služby zabila? Co když znala někoho ze skupinky, kterou den předtím potkala? Kdo všechno o tomhle věděl? Jak jim vymazali vzpomínky? Čemu mohla věřit? Jímala ji závrať. Posadila se na zem a pokusila se alespoň trochu zklidnit dech. V hlavě jí tepalo, krev jí vřela v žilách. Když se jí dech i tep vrátily do akceptovatelných hodnot, začala přemýšlet, co s touto informací dělat.
 

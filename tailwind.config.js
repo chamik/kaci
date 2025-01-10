@@ -3,7 +3,7 @@ module.exports = {
     content: [
         './build/**/*.{js,html}',
         './_site/**/*.{js,html}',
-        './src/**/*.{js,html}',
+        './src/**/*.{js,html,md}',
     ],
     darkMode: 'media',
     theme: {
