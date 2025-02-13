@@ -8,4 +8,4 @@ Ahojky, já jsem Kačí. Momentálně studuji vysokou školu (MFF + FF, obor Mat
 V mém volném čase mě můžete najít na mnoha místech, ať už na lezecké stěně, na túře někde v horách, schoulenou s dobrou knížkou, s kamarády či na druhém konci světa. Také hraji na příčnou flétnu, mám ráda čaj a deskové hry. Miluju poznávat nové zajímavé lidi, takže pokud byste mi chtěli napsat nebo někam zajít, tak sem:
 
 E-mail: kaculik@centrum.cz  
-Discord: kaculik
+Discord: @kaculik
