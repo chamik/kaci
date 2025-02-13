@@ -5,7 +5,7 @@
     "scripts": {
         "setup": "gem install bundler && bundle install && npm ci",
         "fonts": "cp -r node_modules/@fontsource/source-serif-pro/files/source-serif-pro-latin-*00-normal.woff* src/assets/fonts/ && cp -r node_modules/@fontsource/source-serif-pro/files/source-serif-pro-latin-ext-*00-normal.woff* src/assets/fonts/",
-        "dev": "JEKYLL_ENV=development bundler exec jekyll serve --livereload",
+        "dev": "bundler exec jekyll serve --livereload",
         "build": "JEKYLL_ENV=production bundler exec jekyll build -d build/ && npx tailwindcss -i build/styles/main.css -o build/styles/main.css --minify"
     },
     "devDependencies": {
