@@ -2,7 +2,8 @@
 layout: review
 title: Pygmalion
 description: >- 
-    Jedno z nejlepších dramat, které jsem četla.
+    Jedno z nejlepších dramat, 
+    které jsem četla.
 tags: drama komedie
 bookauthor: George Bernard Shaw
 pages: 145
