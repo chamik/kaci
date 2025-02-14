@@ -2,8 +2,7 @@
 layout: review
 title: Skapinova šibalství
 description: >- 
-    Delší popis
-    povídky
+    Vtipné a jednoduché.
 tags: drama komedie
 bookauthor: Moliére
 pages: 74
