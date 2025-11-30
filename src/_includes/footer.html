@@ -8,7 +8,7 @@
         <a href="/feed.xml"><p class="underline">RSS</p></a>
         <div class="flex flex-row gap-2">
             {% for tag in page.tags %}
-                <a href="/tag/{{ tag }}" class="font-semibold underline">{{ tag | smallcase }}</a>
+                <a href="/tag/{{ tag | smallcase }}" class="font-semibold underline">{{ tag | smallcase }}</a>
             {% else %}
                 <p>&mdash;</p>
             {% endfor %}
